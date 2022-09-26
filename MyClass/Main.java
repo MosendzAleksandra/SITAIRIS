@@ -10,6 +10,9 @@ public class Main {
         receipt.saveReceipt();
         receipt.printReceipt();
 
+
+        System.out.println("вношу изменения");
+
     } 
     
 }
